@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Bewerbung Apple</title>
+    <style>
+      body {
+        background-color: black;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>
+      Isabelle Distler
+    </h1>
+    <h2>
+      Junior Webdeveloper
+    </h2>
+    <h3>
+      <u>&Uuml;ber mich</u>
+    </h3>
+      <p>
+        Ich bin in Bonn aufgewachsen und ich bin 31 Jahre alt.
+      </p>
+      <p>
+        Aktuell lebe ich in D&uuml;sseldorf.
+      </p>
+      <p>
+        Das Coding Bootcamp Le Wagon von Januar 2023 bis Juli 2023 absolviert.
+      </p>
+      <p>
+        Danach durfte ich meine erste Berufserfahrung als IT-Assistentin in einer Medienagentur sammeln.
+      </p>
+      <p>
+        In meiner letzten Position habe ich als Softwaretesterin in einer Marketingagentur gearbeitet.
+      </p>
+      <p>
+        Ich habe festgestellt, dass mir vor allem die Frontend-Webentwicklung sehr viel Freude bereitet.
+      </p>
+      <img
+      src="1 - IsabelleDistler.jpg";
+      height="550";
+      width="750";
+      alt="Show me">
+    </a>
+    <h3>
+      <u>Warum ich mich als Software Build Engineer bei Apple bewerbe</u>
+    </h3>
+      <p>
+        Ich interessiere mich neben der technischen Seite stark f&uuml;r Design.
+      </p>
+      <p>
+        In einem zuk&uuml;nftigen Job m&ouml;chte ich auch meine kreative Seite einbringen k&ouml;nnen.
+      </p>
+      <p>
+        Als Teenager habe ich neben der Schule Zeichenunterricht genommen.
+      </p>
+      <p>
+        In meiner Freizeit fotografiere und reise ich gerne.
+      </p>
+      <p>
+        Mich begeistert Fotografie als auch das Reisen, weil ich aufgeschlossen und neugierig bin.
+      </p>
+      <p>
+        W&auml;hrend meines Jurastudiums als auch im Coding Bootcamp durfte ich feststellen, dass ich sehr gerne Probleme l&ouml;se.
+      </p>
+      <p>
+        Ich finde es toll, wenn ich neue Erfahrungen und Denkweisen in das L&ouml;sen von Problemen einbringen kann.
+      </p>
+  </body>
+</html>
